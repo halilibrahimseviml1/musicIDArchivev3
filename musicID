@@ -8,7 +8,7 @@ local TweenService = game:GetService("TweenService")
 
 local LocalPlayer = Players.LocalPlayer
 local KeyListURL = "https://pastebin.com/raw/4XqE6xg0"
-local DiscordURL = "https://discord.gg/Aju5HECm3"
+local DiscordURL = "https://discord.gg/CRewDWEymq"
 
 -- Key System GUI Setup
 local ScreenGui = Instance.new("ScreenGui")
